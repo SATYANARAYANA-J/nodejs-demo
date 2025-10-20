@@ -1,9 +1,9 @@
-CI/CD with GitHub Actions & Docker Hub
+CI/CD with GitHub Actions & Docker Hub:
 
 A simple Node.js (Express) app containerized using Docker and automated with GitHub Actions.
 The pipeline builds the image, tests it, and pushes it automatically to Docker Hub whenever code is pushed to the main branch.
 
-Tools Used
+Tools Used:
 
 Node.js & Express
 
@@ -21,6 +21,6 @@ Open link:http://localhost:3000
 
 Hello from CI/CD with GitHub Actions + Docker!
 
-Author
+Author:
 
 Satya Narayana J
